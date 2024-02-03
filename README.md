@@ -12,3 +12,7 @@ A curated list of projects from the neptun modding community.
 - [Vesta](https://github.com/Balint66/Vesta): Nem hivatalos neptun app. Már nincs fejlesztve.
 - [NeptunLight](https://github.com/marcelltoth/NeptunLight): Alternatív mobilalkalmazás a NEPTUN egyetemi rendszerhez
 - [Neptun-Plus](https://github.com/GreGamingHUN/Neptun-Plus): A Neptun Plus egy Flutterben írt open-source Neptun kliens. Fejlesztés alatt áll, sok funkció hiányzik, valamint a kész lévő funkciók sem véglegesek!
+
+### API
+- [Atlantisz](https://github.com/RuzsaGergely/Atlantisz): API proxy E-Kréta és Neptun rendszerekhez
+- [Poszeidon](https://github.com/RuzsaGergely/Poszeidon): Dokumentáció és PHP-ban írt proxy a Magyarországon használatos NEPTUN felsőoktatási rendszerhez
