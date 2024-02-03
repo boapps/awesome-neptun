@@ -10,3 +10,4 @@ A curated list of projects from the neptun modding community.
 ### Mobil alkalmazások
 - [Neptun-2](https://github.com/domedav/Neptun-2): Egy csere alkalmazás, az elhagyatott neptun mobilapp helyett.
 - [Vesta](https://github.com/Balint66/Vesta): Nem hivatalos neptun app. Már nincs fejlesztve.
+- [NeptunLight](https://github.com/marcelltoth/NeptunLight): Alternatív mobilalkalmazás a NEPTUN egyetemi rendszerhez
