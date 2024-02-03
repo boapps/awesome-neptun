@@ -14,5 +14,6 @@ A curated list of projects from the neptun modding community.
 - [Neptun-Plus](https://github.com/GreGamingHUN/Neptun-Plus): A Neptun Plus egy Flutterben írt open-source Neptun kliens. Fejlesztés alatt áll, sok funkció hiányzik, valamint a kész lévő funkciók sem véglegesek!
 
 ### API
+- [Neptun-API](https://github.com/GreGamingHUN/Neptun-API): A Neptun Egyetemi Rendszer API dokumentációja
 - [Atlantisz](https://github.com/RuzsaGergely/Atlantisz): API proxy E-Kréta és Neptun rendszerekhez
 - [Poszeidon](https://github.com/RuzsaGergely/Poszeidon): Dokumentáció és PHP-ban írt proxy a Magyarországon használatos NEPTUN felsőoktatási rendszerhez
