@@ -10,6 +10,7 @@ A curated list of projects from the neptun modding community.
 
 ### Mobil alkalmazások
 - [Neptun-2](https://github.com/domedav/Neptun-2): Egy csere alkalmazás, az elhagyatott neptun mobilapp helyett.
+- [UniverX](https://github.com/univerx/UniverX): Egy szép Neptun app.
 - [Vesta](https://github.com/Balint66/Vesta): Nem hivatalos neptun app. Már nincs fejlesztve.
 - [NeptunLight](https://github.com/marcelltoth/NeptunLight): Alternatív mobilalkalmazás a NEPTUN egyetemi rendszerhez
 - [Neptun-Plus](https://github.com/GreGamingHUN/Neptun-Plus): A Neptun Plus egy Flutterben írt open-source Neptun kliens. Fejlesztés alatt áll, sok funkció hiányzik, valamint a kész lévő funkciók sem véglegesek!
