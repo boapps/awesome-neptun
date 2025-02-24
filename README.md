@@ -18,9 +18,13 @@ A curated list of projects from the neptun modding community.
 - [Vesta](https://github.com/Balint66/Vesta): Nem hivatalos neptun app. Már nincs fejlesztve.
 - [NeptunLight](https://github.com/marcelltoth/NeptunLight): Alternatív mobilalkalmazás a NEPTUN egyetemi rendszerhez
 - [Neptun-Plus](https://github.com/GreGamingHUN/Neptun-Plus): A Neptun Plus egy Flutterben írt open-source Neptun kliens. Fejlesztés alatt áll, sok funkció hiányzik, valamint a kész lévő funkciók sem véglegesek!
+- 🌟 [Neptun-Mini](https://github.com/domedav/Neptun-Mini) Neptun órarend app.
 
 ### API
 - [Neptun-API](https://github.com/GreGamingHUN/Neptun-API): A Neptun Egyetemi Rendszer API dokumentációja
 - [Atlantisz](https://github.com/RuzsaGergely/Atlantisz): API proxy E-Kréta és Neptun rendszerekhez
 - [Poszeidon](https://github.com/RuzsaGergely/Poszeidon): Dokumentáció és PHP-ban írt proxy a Magyarországon használatos NEPTUN felsőoktatási rendszerhez
 
+### Egyéb
+- 🌟 [neptun-class-autopicker](https://github.com/0xGREG/neptun-class-autopicker) Script az automatizált tárgyfelvételhez.
+- 🌟 [neptun_watch](https://github.com/neptun-extension-project/neptun_watch) Egy naponta frissülő lista, ami az új Neptun szerverek verzióit és pár metaadatát követi.
